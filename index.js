@@ -1,4 +1,6 @@
 {
     "jokfang": "vilains",
-    "lauvel": "pirates"
+    "lauvel": "pirates",
+    "Jotaku__" : "super",
+    "Senua_Rhaenyra" : "vilains"
 }
