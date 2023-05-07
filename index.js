@@ -1,1 +1,1 @@
-{"jokfang":"Force"}
+{"jokfang":"force"}
